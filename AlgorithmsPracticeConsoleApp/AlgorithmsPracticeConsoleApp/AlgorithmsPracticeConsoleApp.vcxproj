@@ -152,9 +152,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AlgorithmsPracticeConsoleApp.cpp" />
+    <ClCompile Include="BT.cpp" />
     <ClCompile Include="calculator.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BT.h" />
     <ClInclude Include="calculator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

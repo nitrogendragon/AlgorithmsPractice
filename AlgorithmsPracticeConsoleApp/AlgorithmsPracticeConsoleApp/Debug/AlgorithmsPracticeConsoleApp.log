@@ -1,4 +1,2 @@
-﻿  calculator.cpp
-c:\users\nitrogendragon\source\repos\algorithmspractice\algorithmspracticeconsoleapp\algorithmspracticeconsoleapp\calculator.cpp(34): warning C4101: 'e': unreferenced local variable
-c:\users\nitrogendragon\source\repos\algorithmspractice\algorithmspracticeconsoleapp\algorithmspracticeconsoleapp\calculator.cpp(39): warning C4101: 'e': unreferenced local variable
+﻿  BT.cpp
   AlgorithmsPracticeConsoleApp.vcxproj -> C:\Users\Nitrogendragon\Source\Repos\AlgorithmsPractice\AlgorithmsPracticeConsoleApp\Debug\AlgorithmsPracticeConsoleApp.exe
